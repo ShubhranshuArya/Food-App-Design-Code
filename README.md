@@ -1,6 +1,9 @@
 # project1_food_app_design
 
-A new Flutter project.
+Developing a basic food app using flutter.
+
+![git_readme_image](https://user-images.githubusercontent.com/77967955/121142214-65c53680-c859-11eb-9493-c8ef95e72758.jpg)
+
 
 ## Getting Started
 
