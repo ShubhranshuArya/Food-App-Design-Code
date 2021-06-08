@@ -23,6 +23,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  auto_size_text: ^2.1.0
+  google_fonts: ^2.1.0  
 
 
   # The following adds the Cupertino Icons font to your application.
@@ -64,6 +66,10 @@ flutter:
     - family: Fitness_App
       fonts:
         - asset: assets/fonts/Fitness_App.ttf
+        
+    - family: MyFlutterApp
+      fonts:
+        - asset: assets/fonts/MyFlutterApp.ttf
         
   #
   # For details regarding fonts from package dependencies,
